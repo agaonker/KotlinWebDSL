@@ -1,4 +1,4 @@
-package com.example.html
+package com.kotlinwebdsl.html
 
 import io.ktor.server.application.*
 import io.ktor.server.engine.*

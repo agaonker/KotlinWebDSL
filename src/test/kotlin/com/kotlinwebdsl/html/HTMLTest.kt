@@ -1,4 +1,4 @@
-package com.example.html
+package com.kotlinwebdsl.html
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

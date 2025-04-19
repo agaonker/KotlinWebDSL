@@ -1,4 +1,4 @@
-package com.example.html
+package com.kotlinwebdsl.html
 
 sealed class HTMLNode {
     abstract fun render(): String

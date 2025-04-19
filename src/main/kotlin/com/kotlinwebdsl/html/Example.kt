@@ -1,4 +1,4 @@
-package com.example.html
+package com.kotlinwebdsl.html
 
 fun main() {
     val htmlDocument = html {

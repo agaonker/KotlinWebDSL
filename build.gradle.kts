@@ -3,7 +3,7 @@ plugins {
     application
 }
 
-group = "com.example"
+group = "com.kotlinwebdsl"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -43,5 +43,5 @@ tasks.test {
 }
 
 application {
-    mainClass.set("com.example.html.ServerKt")
+    mainClass.set("com.kotlinwebdsl.html.ServerKt")
 } 
